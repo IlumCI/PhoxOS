@@ -29,4 +29,4 @@ Our mission is clear: to build a computing platform that reflects the values of 
 
 ## Join the Revolution
 
-Join us on our journey to revolutionize the digital landscape. Whether you're a seasoned developer, an enthusiastic user, or simply curious about the intersection of technology and ideology, there's a place for you in the CommunistOS community. Together, let's build a future where technology is a tool for liberation, not oppression.
+Join us on our journey to revolutionize the digital landscape. Whether you're a seasoned developer, an enthusiastic user, or simply curious about the intersection of technology and ideology, there's a place for you in the PhoxOS community. Together, let's build a future where technology is a tool for liberation, not oppression.
